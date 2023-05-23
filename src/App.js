@@ -1,5 +1,5 @@
 /* eslint-disable react/react-in-jsx-scope */
-import logo from './PotentioSoft Logo _v5.png';
+import logo from './PiSigmaLogo.png';
 import './App.css';
 
 function App() {
