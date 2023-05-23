@@ -11,7 +11,7 @@ function App() {
           Here we are Galaxy!!.
         </p>
         <p>
-          We build software for the to digitally enable EVERYONE.
+          We build software to digitally empower EVERYONE.
         </p>
       </header>
     </div>
