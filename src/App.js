@@ -1,5 +1,5 @@
 /* eslint-disable react/react-in-jsx-scope */
-import logo from './PiSigmaLogo.png';
+import logo from 'public/PiSigmaLogo.png';
 import './App.css';
 
 function App() {
